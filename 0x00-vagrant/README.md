@@ -1,14 +1,15 @@
 # Project Name
 **Optional Vagrant**
+<br\>
 **Setting up your local coding environment**
 # Table of Contents
-- [Author Details] (#author-details)
-- [Tasks] (#tasks)
+- [Author Details](#author-details)
+- [Tasks](#tasks)
 ---
 ## Author Details
 1. *Dean Robin Otsyeno - deanrobin777@gmail.com*
 ---
-#Tasks
+# Tasks
 **0. Create and setup your Git and GitHub account**
 - You will need Git for this project, you might have to install it on your computer if it’s not done yet.
 
