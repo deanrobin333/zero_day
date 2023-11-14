@@ -4,12 +4,24 @@
 **Setting up your local coding environment**
 # Table of Contents
 - [Author Details](#author-details)
+- [Project Description](#project-description)
 - [Tasks](#tasks)
 	- [0. Create and setup your Git and GitHub account](#1)
 	- [1. Hello Ubuntu](#2)
 ---
 ## Author Details
 1. *Dean Robin Otsyeno - deanrobin777@gmail.com*
+---
+## Project Description
+- Most of the projects in this program are supposed to be done in a Linux (Ubuntu) environment.
+
+- For that matter, you will need to set up a similar environment for that purpose. It is for this reason
+that we have the sandboxes but to be able to work locally even when you do not have internet
+access, we highly recommend that you set up your own local coding environment.
+
+- This project is therefore a guide for you to set up the necessary coding environment irrespective
+of the operating system that you are using. Once you have set this up, you can stop using the
+Sandboxes and just use your local environment.
 ---
 # Tasks
 #### 1
