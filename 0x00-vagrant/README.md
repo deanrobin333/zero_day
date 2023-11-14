@@ -1,6 +1,6 @@
 # Project Name
 **Optional Vagrant**
-<br\>
+<br></br>
 **Setting up your local coding environment**
 # Table of Contents
 - [Author Details](#author-details)
