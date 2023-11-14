@@ -5,13 +5,14 @@
 # Table of Contents
 - [Author Details](#author-details)
 - [Tasks](#tasks)
-	- [0. Create and setup your Git and GitHub account](#task-1)
+	- [0. Create and setup your Git and GitHub account](#1)
+	- [1. Hello Ubuntu](#2)
 ---
 ## Author Details
 1. *Dean Robin Otsyeno - deanrobin777@gmail.com*
 ---
 # Tasks
-#### Task 1
+#### 1
 **0. Create and setup your Git and GitHub account**
 - You will need Git for this project, you might have to install it on your computer if it’s not done yet.{#custom-anchor}
 
@@ -31,6 +32,7 @@ On GitHub.com:
 	- Create a file `README.md` with Emacs (or other command line editors) and write a small Markdown text to present this project. **This file is mandatory in projects**
 	- Add this new file to git, commit the change with this message “My first commit” and push to the remote server / origin (Note: You will probably need to set your login/password to push to the remote server)
 ---
+#### 2
 **1. Hello Ubuntu**
 - Inside the `zero_day` repo, create a new directory called `0x00-vagrant`. Add a `README.md` file to this directory.
 
