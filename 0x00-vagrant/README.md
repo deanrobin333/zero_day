@@ -14,7 +14,7 @@
 # Tasks
 # 0. Create and setup your Git and GitHub account {#task}
 **0. Create and setup your Git and GitHub account** {#custom-anchor}
-- You will need Git for this project, you might have to install it on your computer if it’s not done yet. {#custom-anchor}
+- You will need Git for this project, you might have to install it on your computer if it’s not done yet.{#custom-anchor}
 
 - Configure your basic info (name, email) on your local machine – they will be part of your commits.
 On GitHub.com:
